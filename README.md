@@ -8,3 +8,5 @@
 |:------:|:---:|:---:|
 |현대자동차 소프티어 부트캠프|2023.01.02~2023.02.28|[GatherGo! 번개 매칭 플랫폼](https://github.com/softeerbootcamp/Team3)|
 |KT 에이블스쿨|2023.08.08~2024.01.27|[Trip Mission 관광지 인증 웹 어플리케이션](https://github.com/SUNGWHANYOON/TM-KDTHackathon5th)<br>[발표 분석 온라인 플랫폼](https://github.com/ehdwo98/Mouse-PT)|
+
+포트폴리오 : https://www.notion.so/4b7eedd5facd4b488dcbb08f0a981307?pvs=4
