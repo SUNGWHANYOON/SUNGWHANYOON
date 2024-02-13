@@ -18,6 +18,6 @@
    
 배지!
    
-   <img src = 'https://github.com/SUNGWHANYOON/SUNGWHANYOON/assets/35682200/299cc3be-24a2-4e08-b346-a60da0ac8382' width = "300",height = "300">
-   <img src = 'https://github.com/SUNGWHANYOON/SUNGWHANYOON/assets/35682200/9071ffb5-ffdd-43df-b1ce-1b8cdc5d62f4' width = "300",height = "300">
+   <img src = 'https://github.com/SUNGWHANYOON/SUNGWHANYOON/assets/35682200/299cc3be-24a2-4e08-b346-a60da0ac8382'>
+   <img src = 'https://github.com/SUNGWHANYOON/SUNGWHANYOON/assets/35682200/9071ffb5-ffdd-43df-b1ce-1b8cdc5d62f4'>
 
