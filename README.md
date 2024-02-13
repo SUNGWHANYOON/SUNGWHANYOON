@@ -17,6 +17,5 @@
     https://www.notion.so/4b7eedd5facd4b488dcbb08f0a981307?pvs=4
 
 배지!
-
-   ![image_20240213144618](https://github.com/SUNGWHANYOON/SUNGWHANYOON/assets/35682200/299cc3be-24a2-4e08-b346-a60da0ac8382)
+   <img src = 'https://github.com/SUNGWHANYOON/SUNGWHANYOON/assets/35682200/299cc3be-24a2-4e08-b346-a60da0ac8382'>
    ![image_20240213144638](https://github.com/SUNGWHANYOON/SUNGWHANYOON/assets/35682200/9071ffb5-ffdd-43df-b1ce-1b8cdc5d62f4)
